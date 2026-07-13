@@ -1,6 +1,7 @@
 # OTP-Generator-py
 A simple Python OTP generator using random number generation.
-# OTP Generator (Python)
+
+ OTP Generator (Python)
 
 
 
